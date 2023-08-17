@@ -1,0 +1,2 @@
+# Laptop-Price-Prediction1
+I create a simple  Machine Learning project using Numpy, Pandas, Matplotlib, Keras
